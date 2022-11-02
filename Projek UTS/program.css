@@ -1,0 +1,66 @@
+body {
+  background-color: #fff;
+  font-family: "Open Sans", sans-serif;
+}
+
+.header {
+  background-image: url(image/headp1.png);
+  padding: 70px;
+  margin-bottom: 30px;
+  color: white;
+  font-weight: bold;
+  margin-top: 80px;
+  font-size: 50px;
+}
+
+.header1 p:nth-child(1) {
+  font-size: 35px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+}
+
+.header1 p:nth-child(2) {
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.bx p :nth-child(1) {
+  font-size: 15;
+}
+
+.img-fluid {
+  border-radius: 3;
+  width: 800px;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  margin: 0 0 20px 0;
+  padding: 0;
+  font-size: 27px;
+}
+
+
+h6 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  margin: 0 0 20px 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+
+.row {
+  width: 1200px;
+  margin-left: 60px;
+}
+
+footer {
+  color: #DB00FF;
+  padding: 10px;
+  padding-top: 20px;
+  margin-top: 50px;
+  font-size: 15px;
+  text-align: center;
+}

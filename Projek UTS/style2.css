@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+
+  background-size: cover;
+  background-position: center;
+
+  padding-left: 15px;
+  padding-right: 15px;
+  display: flex;
+}
+
+p {
+  font-family: 'Times New Roman';
+}
+
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+
+.ftod {
+  font-family: 'Times New Roman';
+  margin-left: 130px;
+  margin-bottom: 0%;
+}
+
+.masuk {
+  text-align: center;
+  line-height: 40px;
+  margin-left: 50px;
+  height: 520px;
+  width: 550px;
+
+}
+
+.bg-atas {
+  margin-top: 120px;
+}
+
+.bg-transparan {
+  padding: 15px;
+}
+
+.btn {
+  background-color: #DB00FF;
+  width: 400px;
+  border-radius: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 100;
+  border: none;
+  font-size: 20px;
+  color: aliceblue;
+  transition: .3s;
+  cursor: pointer;
+  padding: 10px;
+  margin-top: 45px;
+}
+
+.btn:hover {
+  background: rgb(55, 135, 255);
+  transform: translate(4px);
+}
+
+.input-grup input {
+  width: 400px;
+  border-radius: 15px;
+  border: 2px solid rgb(0, 0, 0);
+  background-color: gray;
+  background: transparent;
+  padding: 10px 10px;
+  margin-top: 30px;
+}
+
+.transparan {
+  margin-top: 8px;
+  margin-left: 65px;
+  text-align: left;
+
+}
+
+.bwh p {
+  font-family: 'Arial';
+  font-size: 17px;
+}
+
+.bwh {
+  margin-top: 8px;
+  display: flex;
+  margin-left: 140px;
+}

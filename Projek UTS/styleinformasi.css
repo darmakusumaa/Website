@@ -1,0 +1,40 @@
+body {
+  animation: changeBg 4s infinite alternate linear;
+  background-color: #DB00FF;
+}
+
+
+.ket {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  background-image: url(image/G4.png);
+  padding: 90px;
+  margin-bottom: 90px;
+  margin-top: 70px;
+}
+
+footer {
+  color: #000000;
+  padding: 10px;
+  padding-top: 20px;
+  margin-top: 50px;
+  font-size: 15px;
+  text-align: center;
+}
+
+@media screen and (max-width:680px) {
+
+  body {
+    width: auto;
+    float: none;
+  }
+
+  .ket {
+    width: auto;
+    float: none;
+  }
+}

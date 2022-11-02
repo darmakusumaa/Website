@@ -1,0 +1,35 @@
+footer {
+  color: #DB00FF;
+  padding: 10px;
+  padding-top: 20px;
+  margin-top: 50px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.isi {
+  margin-top: 120px;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.cardimg {
+  background-color: #DB00FF;
+  color: aliceblue;
+}
+
+.btn {
+  background-color: #DB00FF;
+  color: white;
+}
+
+.btn:hover {
+  background-color: rgb(165, 165, 165);
+}
+
+.narasi {
+  margin: auto;
+  width: 62%;
+  text-align: justify;
+}

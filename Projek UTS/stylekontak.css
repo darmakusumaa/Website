@@ -1,0 +1,73 @@
+body {
+  background-image: url("image/kardus.png");
+  background-size: cover;
+  margin: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+section {
+  margin-top: 250px;
+  margin-bottom: 100px;
+}
+
+
+footer {
+  color: #ffffff;
+  padding: 10px;
+  padding-top: 20px;
+  margin-top: 50px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.bg-transparan {
+  margin-top: 50px;
+}
+
+.btn2 {
+  background-color: #DB00FF;
+  width: 400px;
+  border-radius: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 100;
+  border: none;
+  font-size: 20px;
+  color: aliceblue;
+  transition: .3s;
+  cursor: pointer;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+section {
+  display: flex;
+}
+
+.input-grup input {
+  width: 100%;
+  border-radius: 15px;
+  background-color: #ef89ff;
+  padding: 10px;
+  border: 0ch;
+}
+
+#username {
+  margin-bottom: 15px;
+}
+
+.masuk {
+  border-radius: 30px;
+  background-color: white;
+  padding: 65px;
+  margin-right: 40px;
+  color: #DB00FF;
+}
+
+.hub {
+  justify-content: center;
+}
+
+.map {
+  display: flex;
+  color: black;
+}

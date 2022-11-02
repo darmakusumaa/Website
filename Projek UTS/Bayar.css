@@ -1,0 +1,61 @@
+* {
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pembayaran {
+  margin-top: 100px;
+}
+
+.card {
+  margin: auto;
+}
+
+.btn2 {
+  width: 100%;
+  background-color: #DB00FF;
+  border: 0ch;
+  padding: 15px;
+  margin-top: 30px;
+  color: white;
+}
+
+.btn2:hover {
+  background-color: rgb(170, 170, 170);
+}
+
+.but button {
+  width: 100%;
+  margin-top: 10px;
+  border: 0ch;
+  background-color: #f091ff;
+  padding: 8px;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.but :hover {
+  background-color: rgb(185, 185, 185);
+}
+
+#Nominal {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 4px;
+}
+
+footer {
+  color: #DB00FF;
+  padding: 10px;
+  padding-top: 20px;
+  margin-top: 50px;
+  font-size: 15px;
+  text-align: center;
+}
+
+#num,
+#email {
+  width: 100%;
+  padding: 15px;
+  margin-top: 15px;
+}
